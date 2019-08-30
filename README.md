@@ -1,3 +1,7 @@
+To run this:
+1.`npm i`
+2. `npm start`
+
 This application was created with React. We are consuming the JSONPlaceholder API and using the ROBOHASH Image Generator API.
 
 Using Redux we created a system where the actions are being triggered and go through middleware.
